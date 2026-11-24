@@ -15,7 +15,7 @@
     "url": "https://smarterdrafter.com/"
   },
   "homepage": "https://developers.smarterdrafter.com/reference/mcp-server",
-  "repository": "https://github.com/Tensis-Group/smarter-drafter-mcp",
+  "repository": "https://github.com/smarter-drafter/smarter-drafter-mcp",
   "license": "Apache-2.0",
   "keywords": [
     "legal",
