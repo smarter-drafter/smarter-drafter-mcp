@@ -28,9 +28,11 @@ UK and EU customers use `https://mcp.smarterdrafter.co.uk`. In the plugin's MCP 
 | `search_forms` | Finds published forms in your Smarter Drafter account by name or description. |
 | `get_fields_by_form` | Gets the fields of a form: types, validation rules, options and repeating sections. |
 | `create_submission` | Creates a submission with your answers. A draft can be finished later. |
-| `update_submission_answer` | Changes one answer in a submission, for example to add a file. |
+| `update_submission_answer` | Changes one answer in a submission. |
+| `attach_submission_file` | Adds a file from a public URL to a file field in a draft submission. |
 | `submit_submission` | Completes a draft submission and starts document generation. |
 | `get_submission_generated_documents_url` | Returns short-lived download links for the generated documents. |
+| `get_submission_generated_documents` | Returns the generated documents as files, for when the links cannot be downloaded. |
 
 ## Example workflows
 
