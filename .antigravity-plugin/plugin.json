@@ -16,6 +16,7 @@
   },
   "homepage": "https://developers.smarterdrafter.com/reference/mcp-server",
   "repository": "https://github.com/Tensis-Group/smarter-drafter-mcp",
+  "license": "MIT",
   "keywords": [
     "legal",
     "document automation",
