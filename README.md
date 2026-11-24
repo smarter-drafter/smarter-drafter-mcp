@@ -1,8 +1,8 @@
 # Smarter Drafter for Google Antigravity
 
-Draft client-ready legal documents from your firm's approved Smarter Drafter templates, without leaving Antigravity.
+Draft client-ready legal documents through natural conversation, without leaving Antigravity.
 
-You describe the document you need. The agent finds the right Smarter Drafter form, asks only the questions the form needs, and sends your answers to Smarter Drafter. Smarter Drafter builds the document from your firm's template and returns it as PDF or DOCX. The AI does not write the document text, so there are no invented clauses or citations.
+Describe the document you need. The agent picks the matching precedent from your firm's Smarter Drafter account and gathers the details, then Smarter Drafter generates the finished document and returns it in the conversation. The AI never writes the document text, so there are no invented clauses or citations.
 
 ## Before you start
 
@@ -36,7 +36,7 @@ UK and EU customers use `https://mcp.smarterdrafter.co.uk`. In the plugin's MCP 
 
 ## Example workflows
 
-- **Draft a document:** "Draft an NDA for John Wickham using our firm's Smarter Drafter template." The agent finds the NDA form, asks for the missing details, generates the document and gives you the download links.
+- **Draft a document:** "Draft an NDA for John Wickham using our firm's Smarter Drafter template." The agent finds the NDA form, asks for the missing details and returns the generated documents.
 - **Hand off a long form:** "Start a lease agreement for 12 Smith Street and let me finish the rest in Smarter Drafter." The agent fills what it knows and gives you a link to complete the other fields in Smarter Drafter.
 - **Check what a form needs:** "Which details does our employment agreement form need?"
 

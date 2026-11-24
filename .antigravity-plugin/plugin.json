@@ -2,8 +2,8 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "smarter-drafter",
   "displayName": "Smarter Drafter",
-  "version": "1.0.0",
-  "description": "Draft client-ready legal documents from your firm's approved Smarter Drafter templates. Find a form, answer its questions, get the PDF or DOCX.",
+  "version": "1.0.1",
+  "description": "Draft client-ready legal documents through natural conversation. Every document is generated deterministically from your firm's approved precedents in Smarter Drafter.",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "Draft an NDA for a new client using our firm's Smarter Drafter template",
@@ -11,12 +11,12 @@
     "Which details does our employment agreement form need?"
   ],
   "author": {
-    "name": "Tensis",
-    "url": "https://tensis.com/"
+    "name": "Smarter Drafter",
+    "url": "https://smarterdrafter.com/"
   },
   "homepage": "https://developers.smarterdrafter.com/reference/mcp-server",
   "repository": "https://github.com/Tensis-Group/smarter-drafter-mcp",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "keywords": [
     "legal",
     "document automation",
