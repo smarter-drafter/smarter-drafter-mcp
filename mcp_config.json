@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "au": {
+      "serverUrl": "https://mcp.smarterdrafter.com/"
+    },
+    "uk": {
+      "serverUrl": "https://mcp.smarterdrafter.co.uk/",
+      "disabled": true
+    }
+  }
+}
